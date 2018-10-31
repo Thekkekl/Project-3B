@@ -1,0 +1,10 @@
+C:\C# 2015\Project 3B\Project 3B\bin\Debug\Project 3B.exe.config
+C:\C# 2015\Project 3B\Project 3B\bin\Debug\Project 3B.exe
+C:\C# 2015\Project 3B\Project 3B\bin\Debug\Project 3B.pdb
+C:\C# 2015\Project 3B\Project 3B\obj\Debug\Project 3B.csprojAssemblyReference.cache
+C:\C# 2015\Project 3B\Project 3B\obj\Debug\Project_3B.Form1.resources
+C:\C# 2015\Project 3B\Project 3B\obj\Debug\Project_3B.Properties.Resources.resources
+C:\C# 2015\Project 3B\Project 3B\obj\Debug\Project 3B.csproj.GenerateResource.cache
+C:\C# 2015\Project 3B\Project 3B\obj\Debug\Project 3B.csproj.CoreCompileInputs.cache
+C:\C# 2015\Project 3B\Project 3B\obj\Debug\Project 3B.exe
+C:\C# 2015\Project 3B\Project 3B\obj\Debug\Project 3B.pdb
